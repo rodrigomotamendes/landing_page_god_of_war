@@ -23,6 +23,9 @@
  <li>
   <a href='https://developer.mozilla.org/pt-BR/docs/Web/CSS' rel="nofollow">CSS3</a>
  </li>
+  <li>
+  <a href='https://sass-lang.com/' rel="nofollow">Sass</a>
+ </li>
  <li>
   <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' rel="nofollow">Javascript</a>
  </li>
